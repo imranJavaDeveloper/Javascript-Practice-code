@@ -9,9 +9,14 @@
 7. Symbol
 8. Object*/
 
+
+// let and cons introduce by ESE 6 2015
 let StudentName="md imran alam";
-let age=23;
+let age=23; // we can not re declare the variable
+//var age=87; we can re declare the variable
 const phoneNumber=9504563258;
+
+
 
 console.log(StudentName);
 console.log(age);
