@@ -9,7 +9,7 @@
 7. Symbol
 8. Object*/
 
- str= "furkan"
+ 
 StudentName="md imran alam";
 age=23;
 phoneNumber=9504563258;
