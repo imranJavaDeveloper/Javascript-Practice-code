@@ -9,9 +9,9 @@
 7. Symbol
 8. Object*/
 
-StudentName="md imran alam";
-age=23;
-phoneNumber=9504563258;
+let StudentName="md imran alam";
+let age=23;
+const phoneNumber=9504563258;
 
 console.log(StudentName);
 console.log(age);
