@@ -17,10 +17,28 @@ let age=23; // we can not re declare the variable
 const phoneNumber=9504563258;
 
 let b=BigInt(555526556466);
-console.log(num)
+//console.log(num)
 
 
 console.log(StudentName);
 console.log(age);
 console.log(phoneNumber);
+
+
+const student={
+    fullName:"md imran alam",
+    age: 24,
+    cgpa:78.5
+
+};
+console.log(student);
+
+// Real world Example
+const pen={
+     penName:"Ball pen",
+     rating: 4,
+     offer :5,
+     price :250
+};
+console.log(pen);
 
