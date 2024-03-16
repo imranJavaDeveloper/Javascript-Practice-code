@@ -15,12 +15,8 @@ let StudentName="md imran alam";
 let age=23; // we can not re declare the variable
 //var age=87; we can re declare the variable
 const phoneNumber=9504563258;
-let String=BigInt("123");
-console.log(number);
 
-let name=Symbol("hello");
-console.log(name);
-
+const num=BigInt(555526556466);
 
 
 
