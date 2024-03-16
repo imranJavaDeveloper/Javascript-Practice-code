@@ -17,7 +17,7 @@ let age=23; // we can not re declare the variable
 const phoneNumber=9504563258;
 
 const num=BigInt(555526556466);
-
+console.log(num)
 
 
 console.log(StudentName);
