@@ -21,7 +21,7 @@ let b=BigInt(555526556466);
 
 // undefined data type
    let a;
-   console.log(a);
+   console.log(a);// undefined 
 
 
 console.log(StudentName);
