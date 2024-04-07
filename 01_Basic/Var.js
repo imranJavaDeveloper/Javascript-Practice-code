@@ -42,3 +42,13 @@ const pen={
 };
 console.log(pen);
 
+// how declare product variable
+
+let mobile={
+    brand :"redmi",
+    Model : "oppo reno 6 pro 5g",
+    storage : "12 GB RAM 256 Strorage",
+    price :4500,
+    color : "sky",
+}
+console.log(mobile);
