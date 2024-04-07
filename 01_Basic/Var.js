@@ -19,6 +19,10 @@ const phoneNumber=9504563258;
 let b=BigInt(555526556466);
 //console.log(num)
 
+// undefined data type
+   let a;
+   console.log(a);
+
 
 console.log(StudentName);
 console.log(age);
