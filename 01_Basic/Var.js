@@ -34,7 +34,7 @@ const Student={
     age :22,
     marks :338,
 };
-console.log(student);
+console.log(Student);
 
 // Real world Example
 const pen={
