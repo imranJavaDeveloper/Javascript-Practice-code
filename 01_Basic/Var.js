@@ -30,7 +30,7 @@ console.log(phoneNumber);
 
 
 const Student={
-    Name :"md imran alam",
+    Name :"md furkan alam",
     age :22,
     marks :338,
 };
