@@ -36,6 +36,9 @@ const Student={
 };
 console.log(Student);
 
+// Access only Age
+   console.log(Student.age);
+
 // Real world Example
 const pen={
      penName:"Ball pen",
