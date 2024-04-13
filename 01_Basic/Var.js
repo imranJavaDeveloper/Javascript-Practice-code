@@ -37,7 +37,8 @@ const Student={
 console.log(Student);
 
 // Access only Age
-   console.log(Student.age); // 22
+   Student["name"]="md imran alam"
+   console.log(Student);
 
 // second Example
 const pen={
