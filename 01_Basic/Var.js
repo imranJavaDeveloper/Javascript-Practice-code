@@ -37,9 +37,9 @@ const Student={
 console.log(Student);
 
 // Access only Age
-   console.log(Student.age);
+   console.log(Student.age); // 22
 
-// Real world Example
+// second Example
 const pen={
      penName:"Ball pen",
      rating: 4,
@@ -48,7 +48,7 @@ const pen={
 };
 console.log(pen);
 
-// how declare product variable
+// Third Example
 
 let mobile={
     brand :"redmi",
