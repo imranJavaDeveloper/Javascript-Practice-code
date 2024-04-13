@@ -29,11 +29,10 @@ console.log(age);
 console.log(phoneNumber);
 
 
-const student={
-    fullName:"md imran alam",
-    age: 24,
-    cgpa:78.5
-
+const Student={
+    Name :"md imran alam",
+    age :22,
+    marks :338,
 };
 console.log(student);
 
