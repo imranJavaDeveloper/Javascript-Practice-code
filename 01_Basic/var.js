@@ -25,6 +25,16 @@
    x=null;
    y=undefined;
 
+   // non primitive datatype
+
+   let student={
+     studentName:"md frukan alam",
+     studentAge:22,
+     studentMarks:338
+   }
+
+   console.log(student);
+
    // show all deatil
    console.log(fullName);
    console.log(age);
