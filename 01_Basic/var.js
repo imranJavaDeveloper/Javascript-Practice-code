@@ -19,21 +19,20 @@
     console.log(a);
   }
 
-  console.log(a);
+// can not Access outside of the block  console.log(a);
 
    
    x=null;
    y=undefined;
 
    // non primitive datatype
-
    let student={
      studentName:"md frukan alam",
      studentAge:22,
      studentMarks:338
-   }
+   };
 
-   console.log(student);
+   console.log(student["age"]);
 
    // show all deatil
    console.log(fullName);
