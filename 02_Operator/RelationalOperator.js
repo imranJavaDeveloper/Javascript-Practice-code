@@ -1,9 +1,13 @@
-// Relational Operator
 
-let a=45;
-let b=25;
-let c=24;
+/* Relational Operator 
+ * >,<,<=,>=,==,!=
+ * six types of Relational operator
+ */
 
-console.log(a>b ||a>c);
-console.log(b>a || b>c);
-console.log(c>a ||c>b);
+let a=78;
+
+let b=55;
+
+// check who is big value
+console.log("a > b" +(a>b)) // true
+console.log("a < b" +(a<b)) // flase
