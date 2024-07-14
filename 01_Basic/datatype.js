@@ -45,6 +45,37 @@ let s="md Atif alam";
 console.log(s);
 console.log(typeof s); // type of used for check data type of the variable
 
+// BigInt and symbol
+
+let t=BigInt("123466");
+
+let g=Symbol("hello");
+
+console.log(t); // typeof BigInt
+console.log(g); // typeof symbol
+
+// example of non primitive datatye 
+
+let student={
+    age:age,
+    fName:"md shahid alam",
+    isPass:true
+};
+
+// print student infromation 
+  console.log(student);
+
+// an other example of non primitive data type
+
+ let teacher={
+     teacherName:"Md Raja Alam",
+     teacherAge:45,
+     teacherAddress:"NAWADA",
+    
+ }
+
+ // print teacher all infromation
+ console.log(teacher);
  
 
 
