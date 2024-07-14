@@ -18,3 +18,22 @@ console.log(lastName);
    let age=45;
    let fullName="Md Furkan Alam";
    let phoneNumber=9109495918;
+
+// const keyword after define wen can not prefrom changes in save variable
+  
+const a=566;
+const c=889;
+const name="md imran alam";
+console.log(a);
+console.log(c);
+console.log(name);
+
+// example of undefined
+
+  let x;
+  let y;
+console.log(x); // undefined
+console.log(y);
+
+
+      
