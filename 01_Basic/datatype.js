@@ -76,7 +76,27 @@ let student={
 
  // print teacher all infromation
  console.log(teacher);
+
+ // first way to  Access particular type of data
+
+ console.log(student["age"]); // this will print onliy Age
  
+ // second  way to  Access particular type of data
+ 
+ console.log(student.age);
+
+// Add detail about product pen
+
+const pen={
+  tytile:"Ball pen",
+  rating:4,
+  price:270,
+  color:red,
+  discount:5
+};
+console.log(pen);
+
+
 
 
       
