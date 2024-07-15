@@ -96,6 +96,16 @@ const pen={
 };
 console.log(pen);
 
+// An other example of object
+const profile={
+  profileName:"furkan",
+  followers:569,
+  isfollow:false,
+
+};
+
+console.log(profile);
+
 
 
 
