@@ -1,9 +1,13 @@
 /**
- * String
- * boolean
- * undefined
- * Null
- * Bigint
+ * 
+ *  Number
+ *  BigInt
+ *  Symbol
+ *  Null
+ *  String
+ *  Undefined
+ *  boolean
+ * 
  */
 
 // Example
