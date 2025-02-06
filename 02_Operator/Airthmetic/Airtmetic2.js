@@ -18,7 +18,8 @@ console.log(first%second);//0
 
 /** Example second */
 console.log("EXAMPLE SECOND")
-let a=455;
-let b=48;
+let a=20;
+let b=16;
 
-console.log(a/b);
+console.log(a%b);//
+console.log(b%a);//
