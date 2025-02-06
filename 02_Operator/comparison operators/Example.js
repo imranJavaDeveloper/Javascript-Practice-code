@@ -74,3 +74,16 @@ console.log("===================")
    
 }
 
+{
+    /* An other example */
+
+    let a=78;
+    let b=54;
+
+    console.log(a>b);// true
+    console.log(b>a);// false
+
+    console.log(a>=b);// true
+    console.log(a<=b);// flase
+}
+
