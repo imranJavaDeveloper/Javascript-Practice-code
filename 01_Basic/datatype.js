@@ -1,5 +1,16 @@
 /* Practice on data type  */
 
+
+/**
+ * String
+ * Boolean
+ * Number
+ * BigInt
+ * Null;
+ * Undefined
+ * object
+ */
+
 console.log("example of data type");
 age=45;
 firstName="md";
@@ -19,7 +30,7 @@ console.log(lastName);
    let fullName="Md Furkan Alam";
    let phoneNumber=9109495918;
 
-// const keyword after define wen can not prefrom changes in save variable
+// const keyword after define wen can not re Assign value  in same variable
   
 const a=566;
 const c=889;
@@ -67,7 +78,7 @@ let student={
 
 // an other example of non primitive data type
 
- let teacher={
+    let teacher={
      teacherName:"Md Raja Alam",
      teacherAge:45,
      teacherAddress:"NAWADA",
@@ -103,7 +114,6 @@ const profile={
   isfollow:false,
 
 };
-
 console.log(profile);
 
 
