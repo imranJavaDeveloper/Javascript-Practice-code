@@ -3,7 +3,6 @@
 
 
 console.log("==============");
-
 var b=20;
 console.log(b); // 20
 
@@ -14,26 +13,27 @@ num1=50;
 
 
 {
-    var b;
-    console.log(b); // 20
+    var b2;
+    console.log(b2); // undefined
     b=20; 
-}
+
+}  
 
 {
     a=10;
     console.log(a); // 10
     var a;
 }
+    
 
 console.log("==================");
 
 {
-
    let a;
    console.log(a); // undefined
    a=10;
-   
 }
+   
 
 {
     first=45;

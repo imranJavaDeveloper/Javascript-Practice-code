@@ -11,3 +11,18 @@ console.log("a -b ="+a-b);
 console.log("a*b ="+a*b);
 console.log("a/b ="+a/b);
 console.log("a%b ="+a%b);
+
+
+console.log("=========================");
+
+{
+
+    let first =45;
+    let second =90;
+
+    console.log(first/second);//0.5
+    console.log(first % second);// 45
+    
+    
+}
+
