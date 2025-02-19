@@ -1,13 +1,5 @@
-
-
-/*** Example Parrtent program */
-
-let i ,j;
-
-for(i=1;i<5;i++){
-    for(j=1;j<=5;j++){
-        if(j<=i){
-            console.log("*");
-        }
-    }
+let n = 5;
+for (let i = 1; i <= n; i++) {
+    let str = "* ";
+    console.log(str.repeat(i));
 }
