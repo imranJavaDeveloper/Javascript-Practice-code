@@ -1,7 +1,7 @@
 
 /** print day using day number */
+let day=parseInt(prompt("enter a day number"));
 
-let day=prompt("enter Day  number 1 to 7")
 
 switch (true){
     case day==1:
