@@ -1,5 +1,6 @@
 /* check your age is under 18 or above 18 */
 
+
 let age=45;
 
 if(age>=18){
