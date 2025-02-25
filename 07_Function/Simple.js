@@ -14,11 +14,7 @@ fun();// function call
 function add(a,b){
 
     let c=a+b;
-    console.log("sum of two number is :"+c);
-
-    
+    console.log("sum of two number is :"+c); 
 }
-
 /** function call */
-
 add(10,20); // sum of two number is :30
