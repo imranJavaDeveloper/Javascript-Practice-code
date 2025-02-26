@@ -25,6 +25,6 @@ let A2=[4,5,3,8];
  /** map() method  */
 
  let res=A3.map(f => "hello " +f);
- console.log(res);
+ console.log(res); // ['hello Mohan', 'hello Gita', 'hello Rakesh']
  
  
