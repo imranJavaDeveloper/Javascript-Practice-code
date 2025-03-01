@@ -1,7 +1,5 @@
 
-
 console.log("HELLO WORLD");
-
 let student={
     name:"md imran alam",
     age:45,

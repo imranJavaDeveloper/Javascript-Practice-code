@@ -1,28 +1,19 @@
 
 
 /** example of spread operator */
-
 let str="imran";
 console.log(...str);
-
-
 let str2="Rahat";
 console.log(...str2);
-
-
 /*** Example of spreed operator in object */
 
 let obj={
       name:"md imran alam",
       age:25
 }
-
-let obj2={
-      
+let obj2={ 
     gender:"male"
 }
-
-
 let obj3={
     ...obj,
     ...obj2,
