@@ -17,3 +17,9 @@ let str3="Good Morning";
 let res3=str2.slice(0,-2);
 console.log(res3);
 
+
+let sr="Hi prebytes";
+let newsr=sr.sr(2,10);
+console.log(newsr);
+
+
