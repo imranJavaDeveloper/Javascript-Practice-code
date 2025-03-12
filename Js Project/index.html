@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Alarm Clock</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="logo">⏰ CLOCK</h1>
+
+        <!-- Time Display -->
+        <div class="clock">
+            <span id="hours">00</span> : 
+            <span id="minutes">00</span> : 
+            <span id="seconds">00</span>
+            <span id="ampm">AM</span>
+        </div>
+
+        <!-- Dropdowns to Select Time -->
+        <div class="alarm-settings">
+            <label>Set Wake Up Time:
+                <select id="wakeTime">
+                    <option value="10">10AM - 11AM</option>
+                    <option value="11">11AM - 12PM</option>
+                </select>
+            </label>
+
+            <label>Set Lunch Time:
+                <select id="lunchTime">
+                    <option value="12">12PM - 1PM</option>
+                    <option value="13">1PM - 2PM</option>
+                </select>
+            </label>
+
+            <label>Set Nap Time:
+                <select id="napTime">
+                    <option value="16">4PM - 5PM</option>
+                    <option value="17">5PM - 6PM</option>
+                </select>
+            </label>
+
+            <label>Set Night Time:
+                <select id="nightTime">
+                    <option value="20">8PM - 9AM</option>
+                    <option value="21">9PM - 10AM</option>
+                </select>
+            </label>
+        </div>
+
+        <button id="setAlarm">Set Alarm!!</button>
+
+        <div class="message">
+            <h2 id="greeting">GOOD MORNING!! WAKE UP!!</h2>
+            <p id="status">Grab some healthy breakfast!!!</p>
+        </div>
+        
+        <div class="image">
+            <img id="clockImage" src="morning.png" alt="Clock Image">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('clock-bg.jpg') no-repeat center center/cover;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.clock {
+    font-size: 2rem;
+    margin: 20px 0;
+    color: #ff66b2;
+}
+
+.alarm-settings {
+    margin: 20px 0;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+select {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+button {
+    background: linear-gradient(45deg, #ff66b2, #6633ff);
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: linear-gradient(45deg, #6633ff, #ff66b2);
+}
+
+.message {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.image img {
+    width: 100px;
+    height: 100px;
+}
