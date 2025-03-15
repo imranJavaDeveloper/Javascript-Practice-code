@@ -68,10 +68,14 @@ console.log(g); // typeof symbol
 // example of non primitive datatye 
 
 let student={
-    age:age,
+    age:21,
     fName:"md shahid alam",
     isPass:true
 };
+
+/*** increase student age */
+student.age=student.age+1;
+student["age"]= student["age"]+1;
 
 // print student infromation 
   console.log(student);
