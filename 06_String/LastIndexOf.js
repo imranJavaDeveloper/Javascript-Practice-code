@@ -2,7 +2,7 @@
 
 /*** Find the last index of */
 
-let str1="your are good developer";
+let str1="your good are good developer";
 console.log(str1.lastIndexOf("good"));
 
 let str2="Developer and Developer";

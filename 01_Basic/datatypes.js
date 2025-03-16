@@ -27,15 +27,26 @@
  
  /***** Example of hoisting in js */
 
- x=10;
- console.log(x);
- let x; /// can not access x before inilization
  
-
  
  console.log(x2);
  x2=10;
  var x2; /// 10
+
+
+ /**** calculate power in js */
+
+ let a=5;
+ let b=2;
+   
+   console.log(a**b);
+
+   let result=Math.pow(5,3);
+   console.log(result);
+   
+   
+ 
+
  
  
  
