@@ -9,8 +9,7 @@ let thirdString=" Developer ";
 let result=firstString+secondString+thirdString;
 console.log(result);
 
-
-
+/********* */
 let Str="hello everyone ";
 let str2=" my favourite Language is JavaScript ";
 let str3=" and i am learning it now from cetpa Infotech ";
